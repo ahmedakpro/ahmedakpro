@@ -9,20 +9,20 @@
 
 - 🚀 Passionate about **mobile app development.**
 
-- 🙂 [Let's collaborate and create amazing apps together!](Let's collaborate and create amazing apps together!)
-
 - 💙 Proficient in Flutter **my go-to framework for building beautiful and efficient cross-platform apps.**
 
 - 💡 Constantly **expanding my knowledge and skill set and exploring the world of back-end development..**
 
 - ✉️ You can contact me at: [ahmed2002.agc@gmail.com.](ahmed2002.agc@gmail.com.)
 
+- 🙂 **Let's collaborate and create amazing apps together!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ah_khu90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ah_khu90" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-al-khulidi-5b1114272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-al-khulidi-5b1114272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22198690/ahmed-al-khulidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22198690/ahmed-al-khulidi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61550661898234&mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550661898234&mibextid=2jq9oc" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61550661898234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550661898234" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/ahmedkhulidi?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ahmedkhulidi?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>
 </p>
 
